@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4IQDXj18qRGGcD7c99F3OBXIfPkaHvCgrMXQvY8+teo=",
+  "Hash": "UsL1Wm6oX5eL7Be/7wfX7zk3Bq97kDAkLLucVSOCyUU=",
   "Source": "MyShop",
   "BasePath": "_content/MyShop",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MyShop\\wwwroot",
       "Source": "MyShop",
-      "ContentRoot": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
       "BasePath": "_content/MyShop",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyShop.styles.css",
+      "Identity": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyShop.styles.css",
       "SourceId": "MyShop",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MyShop",
       "RelativePath": "MyShop.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyShop.styles.css"
+      "OriginalItemSpec": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyShop.styles.css"
     },
     {
-      "Identity": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyShop.bundle.scp.css",
+      "Identity": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyShop.bundle.scp.css",
       "SourceId": "MyShop",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MyShop",
       "RelativePath": "MyShop.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyShop.bundle.scp.css"
+      "OriginalItemSpec": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyShop.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\chickenleg.jpg",
+      "Identity": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\chickenleg.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/chickenleg.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chickenleg.jpg"
     },
     {
-      "Identity": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\cider.jpg",
+      "Identity": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\cider.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/cider.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cider.jpg"
     },
     {
-      "Identity": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\coke.jpg",
+      "Identity": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\coke.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/coke.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\images\\coke.jpg"
     },
     {
-      "Identity": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\fishandchips.jpg",
+      "Identity": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\fishandchips.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/fishandchips.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fishandchips.jpg"
     },
     {
-      "Identity": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\frenchfries.jpg",
+      "Identity": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\frenchfries.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/frenchfries.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\images\\frenchfries.jpg"
     },
     {
-      "Identity": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\js\\bootstrap.js",
+      "Identity": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\js\\bootstrap.js",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/js/bootstrap.js",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\js\\jquery.min.js",
+      "Identity": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\js\\jquery.min.js",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/js/jquery.min.js",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\pizza.jpg",
+      "Identity": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\pizza.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/pizza.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pizza.jpg"
     },
     {
-      "Identity": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\ribs.jpg",
+      "Identity": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\ribs.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/ribs.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ribs.jpg"
     },
     {
-      "Identity": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\tacos.jpg",
+      "Identity": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\tacos.jpg",
       "SourceId": "MyShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\",
       "BasePath": "_content/MyShop",
       "RelativePath": "images/tacos.jpg",
       "AssetKind": "All",
