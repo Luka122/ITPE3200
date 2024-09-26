@@ -1,47 +1,47 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyShop.bundle.scp.css",
+      "Id": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyShop.bundle.scp.css",
       "PackagePath": "staticwebassets\\MyShop.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\chickenleg.jpg",
+      "Id": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\chickenleg.jpg",
       "PackagePath": "staticwebassets\\images\\chickenleg.jpg"
     },
     {
-      "Id": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\cider.jpg",
+      "Id": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\cider.jpg",
       "PackagePath": "staticwebassets\\images\\cider.jpg"
     },
     {
-      "Id": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\coke.jpg",
+      "Id": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\coke.jpg",
       "PackagePath": "staticwebassets\\images\\coke.jpg"
     },
     {
-      "Id": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\fishandchips.jpg",
+      "Id": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\fishandchips.jpg",
       "PackagePath": "staticwebassets\\images\\fishandchips.jpg"
     },
     {
-      "Id": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\frenchfries.jpg",
+      "Id": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\frenchfries.jpg",
       "PackagePath": "staticwebassets\\images\\frenchfries.jpg"
     },
     {
-      "Id": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\js\\bootstrap.js",
+      "Id": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\images\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\js\\jquery.min.js",
+      "Id": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\images\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\pizza.jpg",
+      "Id": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\pizza.jpg",
       "PackagePath": "staticwebassets\\images\\pizza.jpg"
     },
     {
-      "Id": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\ribs.jpg",
+      "Id": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\ribs.jpg",
       "PackagePath": "staticwebassets\\images\\ribs.jpg"
     },
     {
-      "Id": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\tacos.jpg",
+      "Id": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\wwwroot\\images\\tacos.jpg",
       "PackagePath": "staticwebassets\\images\\tacos.jpg"
     },
     {
