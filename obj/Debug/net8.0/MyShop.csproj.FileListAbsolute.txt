@@ -56,3 +56,5 @@ C:\Users\dorde\Documents\Gamle filer\OsloMet - Informasjonsteknologi\ITPE3200 - 
 c:\Users\dorde\Documents\Gamle filer\OsloMet - Informasjonsteknologi\ITPE3200 - WebApplikasjoner\MyShop\bin\Debug\net8.0\MyShop.staticwebassets.runtime.json
 c:\Users\dorde\Documents\Gamle filer\OsloMet - Informasjonsteknologi\ITPE3200 - WebApplikasjoner\MyShop\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 c:\Users\dorde\Documents\Gamle filer\OsloMet - Informasjonsteknologi\ITPE3200 - WebApplikasjoner\MyShop\obj\Debug\net8.0\scopedcss\projectbundle\MyShop.bundle.scp.css
+c:\Users\dorde\Documents\Gamle filer\OsloMet - Informasjonsteknologi\ITPE3200 - WebApplikasjoner\MyShop\bin\Debug\net8.0\package-lock.json
+c:\Users\dorde\Documents\Gamle filer\OsloMet - Informasjonsteknologi\ITPE3200 - WebApplikasjoner\MyShop\bin\Debug\net8.0\package.json
