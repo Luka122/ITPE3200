@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\MyShop.csproj": {}
+    "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\MyShop.csproj": {}
   },
   "projects": {
-    "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\MyShop.csproj": {
+    "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\MyShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\MyShop.csproj",
+        "projectUniqueName": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\MyShop.csproj",
         "projectName": "MyShop",
-        "projectPath": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\MyShop.csproj",
+        "projectPath": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\MyShop.csproj",
         "packagesPath": "C:\\Users\\dorde\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\",
+        "outputPath": "C:\\Users\\dorde\\Documents\\Gamle filer\\OsloMet - Informasjonsteknologi\\ITPE3200 - WebApplikasjoner\\MyShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dorde\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,16 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.10, )"
