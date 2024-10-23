@@ -163,3 +163,6 @@ C:\Users\dorde\Documents\Gamle filer\OsloMet - Informasjonsteknologi\ITPE3200 - 
 C:\Users\dorde\Documents\Gamle filer\OsloMet - Informasjonsteknologi\ITPE3200 - WebApplikasjoner\MyShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 c:\Users\dorde\Documents\Gamle filer\OsloMet - Informasjonsteknologi\ITPE3200 - WebApplikasjoner\MyShop\bin\Debug\net8.0\Castle.Core.dll
 c:\Users\dorde\Documents\Gamle filer\OsloMet - Informasjonsteknologi\ITPE3200 - WebApplikasjoner\MyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+c:\Users\dorde\Documents\Gamle filer\OsloMet - Informasjonsteknologi\ITPE3200 - WebApplikasjoner\MyShop\bin\Debug\net8.0\Serilog.dll
+c:\Users\dorde\Documents\Gamle filer\OsloMet - Informasjonsteknologi\ITPE3200 - WebApplikasjoner\MyShop\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+c:\Users\dorde\Documents\Gamle filer\OsloMet - Informasjonsteknologi\ITPE3200 - WebApplikasjoner\MyShop\bin\Debug\net8.0\Serilog.Sinks.File.dll
