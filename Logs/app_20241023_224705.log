@@ -1,0 +1,25 @@
+2024-10-23 22:47:07.055 +02:00 [INF] User profile is available. Using 'C:\Users\dorde\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-23 22:47:07.115 +02:00 [INF] Now listening on: http://localhost:5213
+2024-10-23 22:47:07.120 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-23 22:47:07.122 +02:00 [INF] Hosting environment: Development
+2024-10-23 22:47:07.124 +02:00 [INF] Content root path: C:\Users\dorde\Documents\Gamle filer\OsloMet - Informasjonsteknologi\ITPE3200 - WebApplikasjoner\MyShop
+2024-10-23 22:47:07.228 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5213/ - null null
+2024-10-23 22:47:07.250 +02:00 [INF] Executing endpoint 'MyShop.Controllers.HomeController.Index (MyShop)'
+2024-10-23 22:47:07.262 +02:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller MyShop.Controllers.HomeController (MyShop).
+2024-10-23 22:47:07.273 +02:00 [INF] Executing ViewResult, running view Index.
+2024-10-23 22:47:07.327 +02:00 [INF] Executed ViewResult - view Index executed in 56.389ms.
+2024-10-23 22:47:07.329 +02:00 [INF] Executed action MyShop.Controllers.HomeController.Index (MyShop) in 66.498ms
+2024-10-23 22:47:07.329 +02:00 [INF] Executed endpoint 'MyShop.Controllers.HomeController.Index (MyShop)'
+2024-10-23 22:47:07.332 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5213/ - 200 null text/html; charset=utf-8 105.1749ms
+2024-10-23 22:47:07.389 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5213/js/jquery.validate.unobtrusive.js - null null
+2024-10-23 22:47:07.389 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5213/js/jquery.validate.js - null null
+2024-10-23 22:47:07.389 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5213/js/jquery.min.js - null null
+2024-10-23 22:47:07.389 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5213/js/bootstrap.js - null null
+2024-10-23 22:47:07.403 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5213/js/jquery.validate.unobtrusive.js - 404 0 null 14.1946ms
+2024-10-23 22:47:07.403 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5213/js/bootstrap.js - 404 0 null 14.0238ms
+2024-10-23 22:47:07.403 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5213/js/jquery.validate.js - 404 0 null 14.0722ms
+2024-10-23 22:47:07.403 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5213/js/jquery.min.js - 404 0 null 14.1946ms
+2024-10-23 22:47:07.410 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5213/js/bootstrap.js, Response status code: 404
+2024-10-23 22:47:07.410 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5213/js/jquery.min.js, Response status code: 404
+2024-10-23 22:47:07.410 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5213/js/jquery.validate.unobtrusive.js, Response status code: 404
+2024-10-23 22:47:07.410 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5213/js/jquery.validate.js, Response status code: 404
